@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Bug">
+</Property><Property Name="Solution File" Value="D:\Projects\2. Vb.net Projects\Bug Management System\Bug.sln">
+</Property><Property Name="User Options File" Value="D:\Projects\2. Vb.net Projects\Bug Management System\Bug.suo">
+</Property><Property Name="Date" Value="05 July 2018">
+</Property><Property Name="Time" Value="16:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Bug.sln" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Bug.suo" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug.suo">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\Bug.vbproj" Description="Project file successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\Bug.vbproj">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\Bug.vbproj.user" Description="Project user file successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\Bug.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\abstract.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\abstract.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\abstract.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\abstract.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\analysebug.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\analysebug.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\analysebug.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\analysebug.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\developer.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\developer.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\developer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\developer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\devlogin.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\devlogin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\devlogin.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\devlogin.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\fs.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\fs.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\fs.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\fs.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\index.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\index.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\index.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\index.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\instanceselection.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\instanceselection.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\instanceselection.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\instanceselection.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\manager.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\manager.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\manager.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\manager.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\managerlogin.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\managerlogin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\managerlogin.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\managerlogin.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\Module1.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\Module1.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\My Project\Application.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\newbug.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\newbug.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\newbug.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\newbug.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\progress.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\progress.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\progress.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\progress.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\rdev.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\rdev.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\rdev.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\rdev.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\reg.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\reg.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\reg.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\reg.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\TL.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\TL.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\TL.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\TL.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\TLlogin.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\TLlogin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\TLlogin.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\TLlogin.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\trace.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\trace.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\trace.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\trace.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\traigeinbox.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\traigeinbox.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\traigeinbox.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\traigeinbox.vb">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\My Project\Application.myapp" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\My Project\Settings.settings" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\abstract.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\abstract.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\analysebug.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\analysebug.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\developer.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\developer.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\devlogin.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\devlogin.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\fs.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\fs.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\index.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\index.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\instanceselection.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\instanceselection.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\manager.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\manager.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\managerlogin.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\managerlogin.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\My Project\Resources.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\newbug.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\newbug.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\progress.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\progress.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\rdev.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\rdev.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\reg.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\reg.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\TL.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\TL.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\TLlogin.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\TLlogin.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\trace.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\trace.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\traigeinbox.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Bug Management System\Backup\Bug\traigeinbox.resx">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\Bug.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Bug" Source="Bug\Bug.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Bug.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Bug.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Bug" Source="Bug\Bug.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

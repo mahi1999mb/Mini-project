@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{21DCF9AF-F807-49F3-AE62-CCCFF97F2433}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Bug.My.MyApplication</StartupObject>
+    <RootNamespace>Bug</RootNamespace>
+    <AssemblyName>Bug</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Bug.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Bug.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="abstract.Designer.vb">
+      <DependentUpon>abstract.vb</DependentUpon>
+    </Compile>
+    <Compile Include="abstract.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="analysebug.Designer.vb">
+      <DependentUpon>analysebug.vb</DependentUpon>
+    </Compile>
+    <Compile Include="analysebug.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="developer.Designer.vb">
+      <DependentUpon>developer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="developer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="devlogin.Designer.vb">
+      <DependentUpon>devlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="devlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fs.Designer.vb">
+      <DependentUpon>fs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="index.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="index.Designer.vb">
+      <DependentUpon>index.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="instanceselection.Designer.vb">
+      <DependentUpon>instanceselection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="instanceselection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manager.Designer.vb">
+      <DependentUpon>manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="managerlogin.Designer.vb">
+      <DependentUpon>managerlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="managerlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="newbug.Designer.vb">
+      <DependentUpon>newbug.vb</DependentUpon>
+    </Compile>
+    <Compile Include="newbug.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="progress.Designer.vb">
+      <DependentUpon>progress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="progress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rdev.Designer.vb">
+      <DependentUpon>rdev.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rdev.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reg.Designer.vb">
+      <DependentUpon>reg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TL.Designer.vb">
+      <DependentUpon>TL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TLlogin.Designer.vb">
+      <DependentUpon>TLlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TLlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trace.Designer.vb">
+      <DependentUpon>trace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="trace.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="traigeinbox.Designer.vb">
+      <DependentUpon>traigeinbox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="traigeinbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="abstract.resx">
+      <DependentUpon>abstract.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="analysebug.resx">
+      <DependentUpon>analysebug.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="developer.resx">
+      <DependentUpon>developer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="devlogin.resx">
+      <DependentUpon>devlogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fs.resx">
+      <DependentUpon>fs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="index.resx">
+      <DependentUpon>index.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="instanceselection.resx">
+      <DependentUpon>instanceselection.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manager.resx">
+      <DependentUpon>manager.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="managerlogin.resx">
+      <DependentUpon>managerlogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newbug.resx">
+      <DependentUpon>newbug.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="progress.resx">
+      <DependentUpon>progress.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rdev.resx">
+      <DependentUpon>rdev.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reg.resx">
+      <DependentUpon>reg.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TL.resx">
+      <DependentUpon>TL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TLlogin.resx">
+      <DependentUpon>TLlogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trace.resx">
+      <DependentUpon>trace.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="traigeinbox.resx">
+      <DependentUpon>traigeinbox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

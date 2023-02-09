@@ -1,0 +1,78 @@
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\bin\Debug\Bug.exe
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\bin\Debug\Bug.pdb
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\bin\Debug\Bug.xml
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.Resources.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.vbproj.GenerateResource.Cache
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.exe
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.xml
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.pdb
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.index.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.managerlogin.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.devlogin.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.TLlogin.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.reg.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.developer.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.manager.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.TL.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.abstract.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.rdev.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.newbug.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.analysebug.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.fs.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.instanceselection.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.trace.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.traigeinbox.resources
+D:\Projects\2. Vb.net Projects\Glovish\Bug\Bug\obj\Debug\Bug.progress.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.exe
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.xml
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.pdb
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\bin\Debug\Bug.exe
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\bin\Debug\Bug.pdb
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\bin\Debug\Bug.xml
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.abstract.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.analysebug.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.developer.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.devlogin.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.fs.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.index.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.instanceselection.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.manager.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.managerlogin.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.Resources.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.newbug.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.progress.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.rdev.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.reg.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.TL.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.TLlogin.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.trace.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.traigeinbox.resources
+D:\Projects\2. Vb.net Projects\Bug Management System\Bug\obj\Debug\Bug.vbproj.GenerateResource.Cache
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\bin\Debug\Bug.exe.config
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.exe
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.xml
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.pdb
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\bin\Debug\Bug.exe
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\bin\Debug\Bug.pdb
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\bin\Debug\Bug.xml
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.abstract.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.analysebug.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.developer.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.devlogin.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.fs.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.index.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.instanceselection.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.manager.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.managerlogin.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.Resources.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.newbug.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.progress.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.rdev.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.reg.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.TL.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.TLlogin.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.trace.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.traigeinbox.resources
+C:\mahesh babu\Bug Management System\Bug Management System\Bug\obj\Debug\Bug.vbproj.GenerateResource.Cache
